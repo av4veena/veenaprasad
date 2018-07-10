@@ -1,6 +1,3 @@
-*hdgfjhgjdhskfjhkjdnklfjmflk
-dsfhjdsgjhfkhjkdjksfkfjv
-hdgfjgehjhjgvhrkhkjhktrgj*
 mport java.util.*;
 
 /** The second example program, and the first example of a class comment.
