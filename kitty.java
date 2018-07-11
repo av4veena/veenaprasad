@@ -5,7 +5,9 @@ d+e=f
 c+f=e
 
 
-f+i=h
-j+p=x
-l+i=u
-h=j=g=g=p
+a+b+c+d+g+i+j+G+
+h-j-d-j09
+dg98
+736
+iyurhk-=''''
+
