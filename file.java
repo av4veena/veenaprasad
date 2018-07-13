@@ -8,7 +8,7 @@ mport java.util.*;
  *      *  generally don't have any comments; student code will have
  *       *  comments, and in particular, class comments.
  *        *  @author Robert H. Sloan
- *         */
+ *         */hello veena how r you
 public class HelloDate {
     /** Sole entry point to application, as always.  
  *      *  Example of a function comment as well.
